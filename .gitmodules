@@ -1,0 +1,3 @@
+[submodule "dataModel.SmartMobility"]
+	path = dataModel.SmartMobility
+	url = git@github.com:data-model-harmonization/dataModel.SmartMobility.git
